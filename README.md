@@ -1,6 +1,6 @@
 This repository contains code for a Convolutional Neural Network (CNN) image classification project. The project includes the process of gathering data from Kaggle, installing required packages, preprocessing the data, defining the CNN model, saving and loading the model, deploying it as a simple web app, and troubleshooting techniques such as data augmentation, increasing model complexity, and using early stopping.
 
-                                                                            Let's Get Started 
+                                                        Let's Get Started 
                                                                                                                  
 1) Data gathering
      Dowload a suitable image classification dataset and save it in a new folder in the same filepath as your pycharmprojects. eg: C:\Users\GKamau\PycharmProjects\CNN\ data.
