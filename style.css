@@ -1,0 +1,22 @@
+body{
+    font-family: "Arial Black", sans-serif;
+    text-align: center;
+    background-color: aliceblue;
+    color: #555555;
+    margin: 20px;
+}
+h1 {
+    color: dodgerblue;
+}
+form{
+    margin-top: 20px;
+}
+button{
+    padding: 10px;
+    cursor:pointer;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
